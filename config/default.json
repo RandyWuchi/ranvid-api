@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "unSecureKey",
+  "db": "mongodb://localhost/ranvid",
+  "port": "3900",
+  "requiresAuth": true
+}

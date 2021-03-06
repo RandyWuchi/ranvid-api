@@ -1,0 +1,13 @@
+{"message":"Listening on port 3900","level":"info"}
+{"message":"Connected to mongodb://localhost/ranvid...","level":"info"}
+{"message":"Listening on port 3900","level":"info"}
+{"message":"Connected to mongodb://localhost/ranvid...","level":"info"}
+{"message":"Listening on port 3900","level":"info"}
+{"message":"Connected to mongodb://localhost/ranvid...","level":"info"}
+{"message":"Listening on port 3900","level":"info"}
+{"message":"Connected to mongodb://localhost/ranvid...","level":"info"}
+{"message":"Listening on port 3900","level":"info"}
+{"message":"Connected to mongodb://localhost/ranvid...","level":"info"}
+{"level":"error","message":"genre is not defined genre is not defined","stack":"ReferenceError: genre is not defined\n    at C:\\Users\\Randy\\ranvid\\ranvid-api\\routes\\movies.js:68:14\n    at newFn (C:\\Users\\Randy\\ranvid\\ranvid-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\Randy\\ranvid\\ranvid-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Randy\\ranvid\\ranvid-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at auth (C:\\Users\\Randy\\ranvid\\ranvid-api\\middleware\\auth.js:13:5)\n    at newFn (C:\\Users\\Randy\\ranvid\\ranvid-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\Randy\\ranvid\\ranvid-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Randy\\ranvid\\ranvid-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\Randy\\ranvid\\ranvid-api\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (C:\\Users\\Randy\\ranvid\\ranvid-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\Randy\\ranvid\\ranvid-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Randy\\ranvid\\ranvid-api\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (C:\\Users\\Randy\\ranvid\\ranvid-api\\node_modules\\express\\lib\\router\\index.js:354:14)\n    at param (C:\\Users\\Randy\\ranvid\\ranvid-api\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at Function.process_params (C:\\Users\\Randy\\ranvid\\ranvid-api\\node_modules\\express\\lib\\router\\index.js:410:3)\n    at next (C:\\Users\\Randy\\ranvid\\ranvid-api\\node_modules\\express\\lib\\router\\index.js:275:10)"}
+{"message":"Listening on port 3900","level":"info"}
+{"message":"Connected to mongodb://localhost/ranvid...","level":"info"}
